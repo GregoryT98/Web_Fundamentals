@@ -1,0 +1,32 @@
+.ribbon{
+    width:600px;
+    height:100px;
+    margin-top: 40px;
+    margin-bottom:40px;
+    background-color: black;
+    display:flex;
+}
+
+.nav-links{
+    display:flex;
+    text-align: center;
+    
+}
+.bar{
+    background-color: cyan;
+}
+.active{
+    margin:10px;
+    justify-content: center;
+}
+
+.main{
+    width:320px;
+    background-color: white;
+    margin:30px;
+    border-color: gray;
+    border:darkgray;
+}
+
+
+

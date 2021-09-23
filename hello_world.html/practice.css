@@ -1,0 +1,27 @@
+.row{
+    display:flex;
+    border:1px solid blue;
+    height:20px;
+    width:20px;
+    padding:20px;
+    margin-left:50px;
+}
+
+.column{
+    display:flex;
+    border:1px solid red;
+    height:200px;
+    width:200px;
+    margin-left:400px;
+}
+
+.column-2{
+    display:flex;
+    border:2px solid yellow;
+    height:30px;
+    width:30px;
+    padding-left:30px;
+}
+
+
+
